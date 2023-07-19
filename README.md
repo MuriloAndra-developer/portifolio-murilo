@@ -6,3 +6,12 @@
 
 <P>Um projeto com objetivo de apresentar minhas soft skills, experiências e objetivos. Nele foram ultilizadas as tecnologias(HTML5 & CSS3).<P/>
 
+# :hamer: funcionalidades do projeto
+
+- `Funcionalidade 1`: home: Apresentação e contato.
+- `Funcionalidade 2`: About: texto descrevendo meu objetivo na área de programação e minhas cacteristicas profissionais.
+- `Funcionalidades 3`: Currículo: Exibir meus estudos e carreira profissional.
+
+# 📂: Acesso ao projeto
+
+[Link para acessar o projeto](https://portifolio-murilo.vercel.app/about.html)
