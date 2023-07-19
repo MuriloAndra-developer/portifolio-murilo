@@ -12,6 +12,10 @@
 - `Funcionalidade 2`: Texto descrevendo meu objetivo na área de programação e minhas cacteristicas profissionais.
 - `Funcionalidades 3`: Exibir meus estudos e carreira profissional.
 
+# ✔️ Tecnoligioas utilizadas
+- `HTML5`
+- `CSS3`
+
 # 📂 Acesso ao projeto
 
 [Link para acessar o projeto](https://portifolio-murilo.vercel.app/about.html)
