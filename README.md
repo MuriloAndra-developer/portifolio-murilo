@@ -20,5 +20,5 @@
 [Link para acessar o site](https://portifolio-murilo.vercel.app/about.html)
 
 # Autores
-<img src="https://github.com/MuriloAndra-developer/portifolio-murilo/assets/129803829/c41cb241-cf5a-43bc-af7f-84df85fcad69" width=115><br><sub>Murilo Andrade</sub>](https://github.com/MuriloAndra-developer)
+<img src="https://github.com/MuriloAndra-developer/portifolio-murilo/assets/129803829/c41cb241-cf5a-43bc-af7f-84df85fcad69" width=115><br><sub>Murilo Andrade</sub>](https://github.com/MuriloAndra-developer) |
 |:---:|
