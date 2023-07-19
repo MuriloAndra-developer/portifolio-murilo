@@ -6,16 +6,16 @@
 
 <P>Um projeto com objetivo de apresentar minhas soft skills, experiências e objetivos. Nele foram ultilizadas as tecnologias(HTML5 & CSS3).<P/>
 
-# 🔨 funcionalidades do projeto
+# 🔨  funcionalidades do projeto
 
 - `Funcionalidade 1`: Apresentação e contato.
 - `Funcionalidade 2`: Texto descrevendo meu objetivo na área de programação e minhas cacteristicas profissionais.
 - `Funcionalidades 3`: Exibir meus estudos e carreira profissional.
 
-# ✔️ Tecnoligioas utilizadas
+# ✔️  Tecnoligioas utilizadas
 - `HTML5`
 - `CSS3`
 
-# 📂 Acesso ao projeto
+# 📂  Acesso ao projeto
 
 [Link para acessar o projeto](https://portifolio-murilo.vercel.app/about.html)
