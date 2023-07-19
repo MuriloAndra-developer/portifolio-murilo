@@ -8,9 +8,9 @@
 
 # 🔨 funcionalidades do projeto
 
-- `Funcionalidade 1` HOME: Apresentação e contato.
-- `Funcionalidade 2` ABOUT: texto descrevendo meu objetivo na área de programação e minhas cacteristicas profissionais.
-- `Funcionalidades 3` CURRÍCULO: Exibir meus estudos e carreira profissional.
+- `Funcionalidade 1`: Apresentação e contato.
+- `Funcionalidade 2`: Texto descrevendo meu objetivo na área de programação e minhas cacteristicas profissionais.
+- `Funcionalidades 3`: Exibir meus estudos e carreira profissional.
 
 # 📂 Acesso ao projeto
 
