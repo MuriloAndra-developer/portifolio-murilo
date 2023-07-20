@@ -3,7 +3,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
-<P>Um projeto com objetivo de apresentar minhas soft skills, experiências e objetivos. Nele foram ultilizadas as tecnologias(HTML5 & CSS3).<P/>
+<P>Um projeto com objetivo de apresentar minhas soft skills, experiências e objetivos. <P/>
 
 # 🔨  funcionalidades do projeto
 
